@@ -5,7 +5,7 @@ This repository contains the complete R scripts and supplementary materials used
 
 ---
 
-## 📁 Repository contents
+## Repository contents
 - `/scripts`: Annotated R scripts for all analyses (conversion, pooling, meta-regression, and sensitivity).
 - `/figures`: Forest plots, funnel plots, and bubble plots.
 - `/data`: Extracted datasets and study-level characteristics.
@@ -13,7 +13,7 @@ This repository contains the complete R scripts and supplementary materials used
 
 ---
 
-## 🧠 Statistical environment
+## Statistical environment
 All analyses were performed in **R 4.4.1** using the following packages:
 - `meta` (v6.5-0)
 - `metafor` (v4.4-0)
@@ -28,7 +28,7 @@ Subgroup and meta-regression analyses explored heterogeneity by:
 
 ---
 
-## 🧩 Key scripts
+## Key scripts
 
 | File | Description |
 |------|--------------|
@@ -40,13 +40,13 @@ Subgroup and meta-regression analyses explored heterogeneity by:
 
 ---
 
-## 🧾 Citation
+## Citation
 Please cite this repository when using or adapting the provided code:
 > Silva AMP, Tudella GCN, Cardoso LJC, Gonçalves OR, Menegucci G, et al. (2025). *Stroke and Risk of Alzheimer’s Disease: A Systematic Review, Meta-analysis, and Meta-regression.* GitHub: [https://github.com/meneguccigi-bit/Stroke-and-Risk-of-Alzheimer-s-Disease](https://github.com/meneguccigi-bit/Stroke-and-Risk-of-Alzheimer-s-Disease)
 
 ---
 
-## 📞 Contact
+## Contact
 For reviewer access or questions, please contact:
 
 - **Anderson Matheus Pereira da Silva** — [anderson.matheuss@ufpe.br](mailto:anderson.matheuss@ufpe.br) / [anderson.mhps@icloud.com](mailto:anderson.mhps@icloud.com)  
@@ -54,5 +54,5 @@ For reviewer access or questions, please contact:
 
 ---
 
-## 📜 License
+## License
 Distributed under the **MIT License** for academic and non-commercial use.
